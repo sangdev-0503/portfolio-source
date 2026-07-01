@@ -202,6 +202,7 @@
     background:rgba(79,209,197,.08); border:1px solid var(--teal-dim); padding:4px 9px; border-radius:6px;
   }
   .proj-foot{display:flex; align-items:center; justify-content:space-between; margin-top:auto; padding-top:6px; border-top:1px solid var(--line-soft);}
+  .proj-foot-links{display:flex; gap:12px; align-items:center;}
   .proj-link{
     font-family:'JetBrains Mono',monospace; font-size:12.5px; color:var(--amber); display:flex; align-items:center; gap:6px;
     transition:.2s; margin-top:14px;
