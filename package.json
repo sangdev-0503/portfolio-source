@@ -1,0 +1,11 @@
+{
+  "name": "tran-van-sang-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website - Tran Van Sang, Data Analyst",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "start": "npx serve . -l 3000"
+  },
+  "license": "MIT"
+}
